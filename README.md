@@ -27,7 +27,7 @@ Ruby 2.6.5 Rails 5.2.4
 https://docs.google.com/spreadsheets/d/e/2PACX-1vT-pjhkrvAa8ul9AmscvhQyxgofn9JwLSb0M6sZK_8lFtfMiU4hAi538OgRUioCp0jO2TemzIjnv_AD/pubhtml?gid=0&single=true
 
 ## テーブル定義
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTpcDJHI2hUGfqcY_9WhSZg-YWAQacQ51hbnpeUzwvfzrX_2Pzjlx0Q920hUldhDKsnDcofn5JmRdIq/pubhtml?gid=0&single=true
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTpcDJHI2hUGfqcY_9WhSZg-YWAQacQ51hbnpeUzwvfzrX_2Pzjlx0Q920hUldhDKsnDcofn5JmRdIq/pubhtml
 
 ## ER図
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTl9ldBEJpzjB7-_lamjg3LEcG2j65k4zK4bJEMxusVFNO1Ew3bu9XKfneMOh2cGCYevhA3kkK5uqc1/pubhtml?gid=0&single=true
