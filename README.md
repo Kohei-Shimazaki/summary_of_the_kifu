@@ -30,10 +30,10 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vT-pjhkrvAa8ul9AmscvhQyxgofn9JwL
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTpcDJHI2hUGfqcY_9WhSZg-YWAQacQ51hbnpeUzwvfzrX_2Pzjlx0Q920hUldhDKsnDcofn5JmRdIq/pubhtml
 
 ## ER図
-https://docs.google.com/spreadsheets/d/e/2PACX-1vTl9ldBEJpzjB7-_lamjg3LEcG2j65k4zK4bJEMxusVFNO1Ew3bu9XKfneMOh2cGCYevhA3kkK5uqc1/pubhtml?gid=0&single=true
+publicフォルダ内のer.png
 
 ## 画面遷移図
-https://docs.google.com/spreadsheets/d/e/2PACX-1vSkq8onQbveCcoUrmCO0BrFj6i5VdR7C3JODWKovD0U-z_koq6Cz06xoNlgEh_hNq_NqG9qQXKEIn8t/pubhtml?gid=0&single=true
+https://app.diagrams.net/#G1KTET7VKIurJxLc0X8_8VvCmx8blholnd
 
 ## 画面ワイヤーフレーム
 https://docs.google.com/spreadsheets/d/e/2PACX-1vRvUUIbAI6A2N-wEPWKe5q1XV44lr-b537QZXxS4Kddfq5tRIDsNkZPgqgCT-WvCktaH3n2NcTKlxAY/pubhtml?gid=0&single=true
