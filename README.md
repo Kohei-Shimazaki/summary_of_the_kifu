@@ -48,3 +48,5 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vRvUUIbAI6A2N-wEPWKe5q1XV44lr-b5
 * devise
 * rails_admin
 * cancancan
+* omniauth
+* omniauth-google-oauth2
