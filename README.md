@@ -13,19 +13,19 @@ Ruby 2.6.5 Rails 5.2.4
 
 ## 機能一覧
 * 優先度：高
-** ログイン機能
-** 棋譜取得機能(カリキュラム外・wheneverを使ったデータ自動取得)
-** 棋譜カテゴリー化
-** 棋譜検討機能
-** 棋譜検索機能
-** お気に入り機能
-** ラベリング機能
-** コメント機能
-** 管理者機能(就業term・devise) 管理者のみ使用可能
+  * ログイン機能
+  * 棋譜取得機能(カリキュラム外・wheneverを使ったデータ自動取得)
+  * 棋譜カテゴリー化
+  * 棋譜検討機能
+  * 棋譜検索機能
+  * お気に入り機能
+  * ラベリング機能
+  * コメント機能
+  * 管理者機能(就業term・devise) 管理者のみ使用可能
 * 優先度：中
-** フォロー機能(就業term・友達つながり機能)
-**　勝率表示機能
-** OAuth認証機能(就業term・OAuth)
+  * フォロー機能(就業term・友達つながり機能)
+  * 勝率表示機能
+  * OAuth認証機能(就業term・OAuth)
 
 ## カタログ設計
 https://docs.google.com/spreadsheets/d/e/2PACX-1vT-pjhkrvAa8ul9AmscvhQyxgofn9JwLSb0M6sZK_8lFtfMiU4hAi538OgRUioCp0jO2TemzIjnv_AD/pubhtml?gid=0&single=true
