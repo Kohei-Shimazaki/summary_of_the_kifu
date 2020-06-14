@@ -47,6 +47,6 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vRvUUIbAI6A2N-wEPWKe5q1XV44lr-b5
 * whenever
 * devise
 * rails_admin
-* cancancan
+* banken
 * omniauth
 * omniauth-google-oauth2
