@@ -40,7 +40,7 @@ publicフォルダ内のer.jpg
 publicフォルダ内のscreen_transition_diagram.png
 
 ## 画面ワイヤーフレーム
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRvUUIbAI6A2N-wEPWKe5q1XV44lr-b537QZXxS4Kddfq5tRIDsNkZPgqgCT-WvCktaH3n2NcTKlxAY/pubhtml?gid=0&single=true
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRvUUIbAI6A2N-wEPWKe5q1XV44lr-b537QZXxS4Kddfq5tRIDsNkZPgqgCT-WvCktaH3n2NcTKlxAY/pubhtml
 
 ## 使用予定gem
 * nokogiri
